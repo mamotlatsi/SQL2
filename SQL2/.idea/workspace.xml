@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c7fa721-bd50-4f26-9e58-9d10c99b650b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/DatabaseConnection2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DatabaseConnection2/src/DatabaseConnection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/LibraryUser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/built-clean.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookLoans$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookLoans$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookLoans$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookLoans$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookLoans$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookLoans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookLoans.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/BookManagement.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/LibraryUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/OptionScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/OptionScreen$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/OptionScreen$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/OptionScreen$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/OptionScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/OptionScreen.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/StudentManagement.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/WelcomeScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/WelcomeScreen$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/WelcomeScreen$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/WelcomeScreen$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/WelcomeScreen$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/WelcomeScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/build/classes/libraryuser/WelcomeScreen.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookLoans$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookLoans$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookLoans$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookLoans$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookLoans$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookLoans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookManagement$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookManagement$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookManagement$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookManagement$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookManagement$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookManagement$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookManagement$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/BookManagement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/LibraryUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/OptionScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/OptionScreen$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/OptionScreen$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/OptionScreen$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/OptionScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/StudentManagement$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/StudentManagement$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/StudentManagement$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/StudentManagement$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/StudentManagement$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/StudentManagement$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/StudentManagement$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/StudentManagement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/WelcomeScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/WelcomeScreen$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/WelcomeScreen$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/WelcomeScreen$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/WelcomeScreen$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/out/production/LibraryUser/libraryuser/WelcomeScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/BookLoans.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/BookLoans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/BookManagement.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/BookManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/LibraryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/OptionScreen.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/OptionScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/StudentManagement.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/StudentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/WelcomeScreen.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibraryUser/src/libraryuser/WelcomeScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL-master/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL-master/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mamotlatsiSql/Queries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Umuzi.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dev/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.idea/First-Java-Project-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.idea/First-Java-Project-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/build/classes/java/main/EvenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/build/classes/java/main/EvenNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/EvenOrOdd.project/src/main/java/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/src/main/java/EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/EvenOrOdd.project/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/build/classes/java/main/triangleC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/build/classes/java/main/triangleC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/Triangle.project/src/main/java/triangleC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/src/main/java/triangleC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/Triangle.project/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/build/classes/java/main/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/build/classes/java/main/hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/hello/src/main/java/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/src/main/java/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/hello/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/build/classes/java/main/triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/build/classes/java/main/triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/isosceles.project/src/main/java/triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/src/main/java/triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/isosceles.project/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.idea/$PRODUCT_WORKSPACE_FILE$.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/build/classes/java/main/squareC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/build/classes/java/main/squareC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-Java-Project/square.project/src/main/java/squareC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/First-Java-Project/square.project/src/main/java/squareC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/build/classes/java/main/GenericClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/build/classes/java/main/Generics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/build/classes/java/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/src/main/java/GenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/src/main/java/GenericClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/src/main/java/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/src/main/java/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject-master/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.idea/GenericsProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/GenericsProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL-master/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL-master/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dev/GenericsProject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Sql/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/src/main/java/GenericClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/src/main/java/Generics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsProject/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1andhvD00Cuk7buVKUL8ne6tTzz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c7fa721-bd50-4f26-9e58-9d10c99b650b" name="Default Changelist" comment="" />
+      <created>1587375414407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587375414407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1020" height="732" key="#Project_Structure" timestamp="1587375458391">
+      <screen x="0" y="0" width="1024" height="735" />
+    </state>
+    <state x="0" y="0" width="1020" height="732" key="#Project_Structure/0.0.1024.735@0.0.1024.735" timestamp="1587375458391" />
+    <state x="295" y="127" width="430" height="481" key="FileChooserDialogImpl" timestamp="1587508312493">
+      <screen x="0" y="0" width="1024" height="735" />
+    </state>
+    <state x="295" y="127" width="430" height="481" key="FileChooserDialogImpl/0.0.1024.735@0.0.1024.735" timestamp="1587508312493" />
+    <state x="385" y="269" key="Github.ShareDialog" timestamp="1587508656291">
+      <screen x="0" y="0" width="1024" height="735" />
+    </state>
+    <state x="385" y="269" key="Github.ShareDialog/0.0.1024.735@0.0.1024.735" timestamp="1587508656291" />
+    <state x="299" y="70" width="421" height="594" key="Github.UntrackedFilesDialog" timestamp="1587508452832">
+      <screen x="0" y="0" width="1024" height="735" />
+    </state>
+    <state x="299" y="70" width="421" height="594" key="Github.UntrackedFilesDialog/0.0.1024.735@0.0.1024.735" timestamp="1587508452832" />
+    <state x="107" y="105" width="806" height="525" key="Vcs.Push.Dialog.v2" timestamp="1587508871775">
+      <screen x="0" y="0" width="1024" height="735" />
+    </state>
+    <state x="107" y="105" width="806" height="525" key="Vcs.Push.Dialog.v2/0.0.1024.735@0.0.1024.735" timestamp="1587508871775" />
+    <state x="310" y="286" width="399" height="163" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587508674988">
+      <screen x="0" y="0" width="1024" height="735" />
+    </state>
+    <state x="310" y="286" width="399" height="163" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.735@0.0.1024.735" timestamp="1587508674988" />
+    <state x="175" y="56" width="672" height="678" key="search.everywhere.popup" timestamp="1587391307555">
+      <screen x="0" y="0" width="1024" height="735" />
+    </state>
+    <state x="175" y="56" width="672" height="678" key="search.everywhere.popup/0.0.1024.735@0.0.1024.735" timestamp="1587391307555" />
+  </component>
+</project>
